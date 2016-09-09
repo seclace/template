@@ -114,7 +114,8 @@ gulp.task('sprites:build', function () {
         .pipe(sprite({
             baseUrl: path.tmp.spritesPath,
             imgName: "sprite.png",
-            cssName: "sprites.scss"
+            cssName: "sprites.scss",
+            padding: 5
         }));
 
     var imgStream = spriteData.img

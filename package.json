@@ -37,5 +37,6 @@
     "rimraf": "latest",
     "vinyl-buffer": "latest",
     "wiredep": "latest"
-  }
+  },
+  "dependencies": {}
 }
