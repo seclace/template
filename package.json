@@ -38,5 +38,7 @@
     "vinyl-buffer": "latest",
     "wiredep": "latest"
   },
-  "dependencies": {}
+  "dependencies": {
+    "materializecss": "^1.0.11"
+  }
 }
